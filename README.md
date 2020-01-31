@@ -71,6 +71,27 @@ may be of interest.
 
 ## Useful Background
 
+### Must Read
+
+- [Smashing The Stack For Fun And Profit](http://phrack.org/issues/49/14.html#article)
+- [Anatomy of a program in memory](https://manybutfinite.com/post/anatomy-of-a-program-in-memory/)
+
+### Useful Info
+
+- Eddie Kholer Background on
+  [Assembly](https://cs61.seas.harvard.edu/site/2019/Asm/)
+  and Low-Level Code:
+  - [Assembly 1: Basics](https://cs61.seas.harvard.edu/site/2018/Asm1/)
+  - [Assembly 2: Calling Convention](https://cs61.seas.harvard.edu/site/2018/Asm2/)
+  - [Assebmly 4: Buffer Overflows](https://cs61.seas.harvard.edu/site/2018/Asm1/)
+- Vasileios Kemerlis @ Brown on Hacking. Basically all the
+  links from the first few lectures are useful:
+  - [Course Website with Tons of Hacking Links](https://cs.brown.edu/courses/csci1650/lectures.html)
+
+- [Program
+  Startup](http://www.dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
+
+
 ### X86-64 Calling Convenctions
 
 From [stack
@@ -88,5 +109,3 @@ overlow](https://stackoverflow.com/questions/28601414/calling-c-function-from-x6
 > argument (e.g., the nul-terminated string: "Hello\n") must
 > be passed in %rdi, and %rax must be zero when the function
 > is called.
-
-
