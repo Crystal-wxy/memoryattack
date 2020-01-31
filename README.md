@@ -91,6 +91,7 @@ may be of interest.
 - [Program
   Startup](http://www.dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
 
+- [Heartbleed](https://readwrite.com/2014/04/13/heartbleed-security-codenomicon-discovery/)
 
 ### X86-64 Calling Convenctions
 
